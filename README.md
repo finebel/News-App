@@ -10,6 +10,8 @@ To run the project it's required to register at [News-API](https://newsapi.org/)
 
 ## Screenshots
 
+![Frame as](https://user-images.githubusercontent.com/46824694/111910605-586e8c00-8a62-11eb-88fe-befd01ef27dc.png)
+
 ![Bildschirmfoto 2021-03-19 um 17 05 50](https://user-images.githubusercontent.com/46824694/111809713-912d2a80-88d5-11eb-8fba-a70d21c2c1ef.png)
 ![Bildschirmfoto 2021-03-19 um 17 06 05](https://user-images.githubusercontent.com/46824694/111809716-91c5c100-88d5-11eb-90c3-cb3b06efc407.png)
 ![Bildschirmfoto 2021-03-19 um 17 06 10](https://user-images.githubusercontent.com/46824694/111809719-92f6ee00-88d5-11eb-9eba-e935ad4d3ac1.png) 
